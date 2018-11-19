@@ -4,5 +4,5 @@ from setuptools import setup
 setup(
     name='pre_commit_dummy_package',
     version='0.0.0',
-    install_requires=['pipenv==2018.6.25'],
+    install_requires=['pipenv==2018.7.1'],
 )
