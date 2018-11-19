@@ -1,0 +1,7 @@
+-   id: pipenv
+    name: pipenv
+    entry: pipenv
+    language: python
+    'files': ^Pipfile$
+    args: ["check"]
+    additional_dependencies: []
